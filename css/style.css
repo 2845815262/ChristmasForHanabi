@@ -1,0 +1,54 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.13), rgba(0, 0, 0, .4)),url(https://pic.616pic.com/bg_w1180/00/17/86/DHfq0Oyahx.jpg);
+    scroll-behavior: smooth;
+    background-size: contain;
+}
+
+h1,
+h2,
+h3,
+p,
+a {
+    margin: 0;
+    padding: 0;
+    text-decoration-line: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Noto Sans SC', sans-serif;
+}
+
+.kuang{
+    margin: auto;
+    width: 90%;
+}
+
+.title{
+    text-align: center;
+    margin-top: 20px;
+}
+
+video{
+    margin-top: 10px;
+}
+
+.imgs h2{
+    margin: 20px 0 10px 0;
+    font-weight: 700;
+}
+
+h1{
+    font-weight: 900;
+}
+
+p{
+    font-weight: 500;
+}
+
+img{
+    width: 100%;
+    padding: 0;
+    border-radius: 5%;
+    margin-bottom: 25px;
+}
